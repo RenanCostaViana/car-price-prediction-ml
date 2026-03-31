@@ -63,28 +63,12 @@ Modelos testados:
 
 ---
 
-## 📈 Resultados
-
-O modelo com melhor desempenho foi:
-
-> **Random Forest Regressor**  
-> com R² aproximado de **XX%** e RMSE de **YY**  
-> *(substituir pelos valores reais)*
-
-Visualizações como scatter plots, importância das features e curvas de erro podem ser adicionadas na pasta `/images`.
-
----
-
 ## 🧠 Insights Relevantes
-
-Alguns exemplos que você pode adaptar conforme sua análise:
 
 - A idade do veículo é um dos fatores mais determinantes no preço final  
 - Quilometragem apresenta relação inversa forte com o valor de mercado  
 - Certas marcas mantêm valor melhor ao longo do tempo  
 - A combinação de atributos categóricos + numéricos melhora significativamente o desempenho do modelo  
-
-Se quiser, posso escrever insights específicos com base no seu notebook.
 
 ---
 
@@ -101,7 +85,7 @@ pip install -r requirements.txt
 3. Execute as células na ordem indicada.
 
 ## 📬 Contato
-LinkedIn: https://linkedin.com/in/renancostaviana (linkedin.com in Bing)  
+LinkedIn: https://linkedin.com/in/renancostaviana
 E-mail: renan.cv@outlook.com.br
 
 **✨ Projeto desenvolvido para demonstrar domínio em regressão aplicada ao mercado automotivo.**
